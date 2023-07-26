@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Him",
+	"description": "An inside joke in the Chonny Jash fanserver of a black and white Mind with blue eyes and lipstick",
+	"links": {
+		"subreddit": [
+			"chonnyjash"
+		]
+	},
+	"path": {
+		"250-252": [
+			[
+				-264,
+				971
+			],
+			[
+				-247,
+				971
+			],
+			[
+				-247,
+				998
+			],
+			[
+				-265,
+				998
+			],
+			[
+				-264,
+				997
+			]
+		]
+	},
+	"center": {
+		"250-252": [
+			-256,
+			985
+		]
+	}
+}
